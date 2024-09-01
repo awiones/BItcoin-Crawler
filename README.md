@@ -1,2 +1,18 @@
-# BItcoin-Crawler
-A Python script that simulates crawling Bitcoin and Ethereum addresses from various websites. The script randomly generates fake cryptocurrency addresses and checks for funds. If valid addresses are found, the total amount is tracked and displayed in the user interface.
+# Crawling Bitcoin & Ethereum
+
+A Python script that simulates crawling Bitcoin and Ethereum addresses from various websites. The script generates fake cryptocurrency addresses and checks for funds, displaying the total amount collected during the crawling process.
+
+## Features
+
+- **Bitcoin & Ethereum Crawling**: Simulate crawling Bitcoin and Ethereum addresses with a menu-driven interface.
+- **Total Funds Tracker**: Tracks and displays the total BTC and ETH collected during crawling sessions.
+- **Random Address Generation**: Simulates valid and invalid addresses from popular cryptocurrency platforms like Binance, Coinbase, Kraken, etc.
+- **User-Friendly Menu**: Provides a simple and intuitive interface for selecting options and viewing results.
+- **Data Persistence**: Automatically saves and loads the total BTC and ETH collected between sessions.
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/crypto-crawling.git
+   cd B
