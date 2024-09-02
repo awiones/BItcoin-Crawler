@@ -24,12 +24,14 @@ python start.py
 
 This project is licensed under the GPL 3.0 License. See the [LICENSE](./LICENSE) file for details.
 
+## Contributing
+
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, please submit a pull request or open an issue.
 
 - **Fork the Repository**: Create a personal copy of the repository on GitHub.
 - **Make Changes**: Implement your changes and test them locally.
 - **Submit a Pull Request**: Describe your changes and submit a pull request for review.
-
+- 
 ---
 
 Made with ❤️ by Awiones
