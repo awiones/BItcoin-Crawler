@@ -14,8 +14,7 @@ A Python script that simulates crawling Bitcoin and Ethereum addresses from vari
 
 ## Installation
 
-1. **Clone the repository**:
-   ```bash
+```bash
 git clone https://github.com/awiones/Bitcoin-Crawler.git
 cd Bitcoin-Crawler
 python start.py
