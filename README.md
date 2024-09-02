@@ -24,9 +24,11 @@ A Python script that simulates crawling Bitcoin and Ethereum addresses from vari
 
 This project is licensed under the GPL 3.0 License. See the [LICENSE](./LICENSE) file for details.
 
-## Contributions
+Contributions are welcome! If you have suggestions, improvements, or bug fixes, please submit a pull request or open an issue.
 
-Contributions are welcome! Feel free to submit a pull request or open an issue to discuss changes or improvements.
+- **Fork the Repository**: Create a personal copy of the repository on GitHub.
+- **Make Changes**: Implement your changes and test them locally.
+- **Submit a Pull Request**: Describe your changes and submit a pull request for review.
 
 ---
 
